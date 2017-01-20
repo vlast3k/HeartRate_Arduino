@@ -13,3 +13,5 @@ TFT display connects to:
 * D11 : MOSI
 * D12 : MISO
 * D13 : SCK
+
+If display is powered via 5v, make sure the Open Jumper on the board is soldered / connected, else the display is blank white
